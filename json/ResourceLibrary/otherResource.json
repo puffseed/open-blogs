@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Adobe全家桶",
+    "description": "其他免费资源",
+    "type": "系统必备",
+    "tag": "windows",
+    "url": "https://www.baidu.com"
+  },
+  {
+    "name": "其他资源",
+    "description": "其他免费资源",
+    "type": "系统必备",
+    "tag": "MacOS",
+    "url": "https://www.baidu.com"
+  }
+]

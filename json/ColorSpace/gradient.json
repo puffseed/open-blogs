@@ -1,0 +1,188 @@
+[
+  {
+    "name": "蜜桃橙",
+    "color": "#FF306A → #FF7B46",
+    "code": "background: linear-gradient(244deg,#FF7B46 0%,#FF306A 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "火砖",
+    "color": "#45145A → #FF5300",
+    "code": "background: linear-gradient(244deg,#FF5300 0%,#45145A 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "乐观",
+    "color": "#D4145A → #FBB03B",
+    "code": "background: linear-gradient(244deg,#FBB03B 0%,#D4145A 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "新鲜的木瓜",
+    "color": "#ED1C24 → #FCEE21",
+    "code": "background: linear-gradient(244deg,#FCEE21 0%,#ED1C24 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "桃红色糖",
+    "color": "#D74177 → #FFE98A",
+    "code": "background: linear-gradient(244deg,#FFE98A 0%,#D74177 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "泡芙桃子",
+    "color": "#F24645 → #EBC08D",
+    "code": "background: linear-gradient(244deg,#EBC08D 0%,#F24645 100%)",
+    "type": "红色"
+  },
+  {
+    "name": "橙青",
+    "color": "#FC5F3A → #EBC360",
+    "code": "background: linear-gradient(244deg,#EBC360 0%,#FC5F3A 100%)",
+    "type": "橙色"
+  },
+  {
+    "name": "甜甜的",
+    "color": "#EE674F → #F9B167",
+    "code": "background: linear-gradient(244deg,#F9B167 0%,#EE674F 100%)",
+    "type": "橙色"
+  },
+  {
+    "name": "柠檬毛毛雨",
+    "color": "#FB872B → #D9E021",
+    "code": "background: linear-gradient(244deg,#D9E021 0%,#FB872B 100%)",
+    "type": "橙色"
+  },
+  {
+    "name": "贵族金",
+    "color": "#E6C75B → #F3EB64",
+    "code": "background: linear-gradient(244deg,#F3EB64 0%,#E6C75B 100%)",
+    "type": "黄色"
+  },
+  {
+    "name": "嫩木",
+    "color": "#38A066 → #23E6C4",
+    "code": "background: linear-gradient(244deg,#23E6C4 0%,#38A066 100%)"
+  },
+  {
+    "name": "群青",
+    "color": "#00A8C5 → #FFFF7E",
+    "code": "background: linear-gradient(244deg,#FFFF7E 0%,#00A8C5 100%)"
+  },
+  {
+    "name": "新叶子",
+    "color": "#00537E → #3AA17E",
+    "code": "background: linear-gradient(244deg,#3AA17E 0%,#00537E 100%)"
+  },
+  {
+    "name": "甜美的石灰",
+    "color": "#009245 → #FCEE21",
+    "code": "background: linear-gradient(244deg,#FCEE21 0%,#009245 100%)"
+  },
+  {
+    "name": "春天绿色",
+    "color": "#009E00 → #FFFF96",
+    "code": "background: linear-gradient(244deg,#FFFF96 0%,#009E00 100%)"
+  },
+  {
+    "name": "霓虹灯",
+    "color": "#00FFA1 → #00FFFF",
+    "code": "background: linear-gradient(244deg,#00FFFF 0%,#00FFA1 100%)"
+  },
+  {
+    "name": "沿海微风",
+    "color": "#00B7FF → #FFFFC7",
+    "code": "background: linear-gradient(244deg,#FFFFC7 0%,#00B7FF 100%)",
+    "type": "青色"
+  },
+  {
+    "name": "海洋蓝色",
+    "color": "#2E3192 → #1BFFFF",
+    "code": "background: linear-gradient(244deg,#1BFFFF 0%,#2E3192 100%)",
+    "type": "青色"
+  },
+  {
+    "name": "湖水蓝",
+    "color": "#4F6DEE → #67BDF9",
+    "code": "background: linear-gradient(244deg,#67BDF9 0%,#4F6DEE 100%)",
+    "type": "蓝色"
+  },
+  {
+    "name": "深海",
+    "color": "#4F00BC → #29ABE2",
+    "code": "background: linear-gradient(244deg,#29ABE2 0%,#4F00BC 100%)",
+    "type": "蓝色"
+  },
+  {
+    "name": "高贵紫",
+    "color": "#7514B3 → #EE617C",
+    "code": "background: linear-gradient(244deg,#EE617C 0%,#7514B3 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "甜蜜的梦",
+    "color": "#3A3897 → #A3A1FF",
+    "code": "background: linear-gradient(244deg,#A3A1FF 0%,#3A3897 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "莓果",
+    "color": "#8E78FF → #FC7D7B",
+    "code": "background: linear-gradient(244deg,#FC7D7B 0%,#8E78FF 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "紫色湖",
+    "color": "#662D8C → #ED1E79",
+    "code": "background: linear-gradient(244deg,#ED1E79 0%,#662D8C 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "仙尘",
+    "color": "#D585FF → #00FFEE",
+    "code": "background: linear-gradient(244deg,#00FFEE 0%,#D585FF 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "维多利亚紫色",
+    "color": "#312A6C → #852D91",
+    "code": "background: linear-gradient(244deg,#852D91 0%,#312A6C 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "神秘的紫红色",
+    "color": "#B066FE → #63E2FF",
+    "code": "background: linear-gradient(244deg,#63E2FF 0%,#B066FE 100%)",
+    "type": "紫色"
+  },
+  {
+    "name": "水蜜桃",
+    "color": "#F889CF → #FD7984",
+    "code": "background: linear-gradient(244deg,#FD7984 0%,#F889CF 100%)",
+    "type": "粉色"
+  },
+  {
+    "name": "棉花糖",
+    "color": "#FCA5F1 → #B5FFFF",
+    "code": "background: linear-gradient(244deg,#B5FFFF 0%,#FCA5F1 100%)",
+    "type": "粉色"
+  },
+  {
+    "name": "反光银",
+    "color": "#808080 → #E6E6E6",
+    "code": "background: linear-gradient(244deg,#E6E6E6 0%,#808080 100%)",
+    "type": "其他"
+  },
+  {
+    "name": "晚上欢欣",
+    "color": "#93278F → #00A99D",
+    "code": "background: linear-gradient(244deg,#00A99D 0%,#93278F 100%)",
+    "type": "其他"
+  },
+  {
+    "name": "锻铁",
+    "color": "#333333 → #5A5454",
+    "code": "background: linear-gradient(244deg,#5A5454 0%,#333333 100%)",
+    "type": "其他"
+  }
+]

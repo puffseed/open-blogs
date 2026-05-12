@@ -1,0 +1,572 @@
+[
+    {
+        "name": "楷体_GB2312",
+        "fontFamily": "KaiTiGB2312",
+        "type": "国标",
+        "format": ".ttf"
+    },
+    {
+        "name": "优设标题黑",
+        "fontFamily": "TitleBlack",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "厚底黑",
+        "fontFamily": "HouDiHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "周字方体",
+        "fontFamily": "ZhouZiFangTi",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "小杉黑体",
+        "fontFamily": "XiaoShanHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "得意黑",
+        "fontFamily": "DeYiHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "德国妙黑",
+        "fontFamily": "DeGuoMiaoHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "德拉黑体",
+        "fontFamily": "DeLaHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "思源黑体",
+        "fontFamily": "SiYuanHei",
+        "type": "黑体",
+        "format": ".otf"
+    },
+    {
+        "name": "阿里妈妈数黑体",
+        "fontFamily": "ShuHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "文道潮黑",
+        "fontFamily": "WenDaoChaoHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "阿里巴巴普惠体",
+        "fontFamily": "PuHuiTi",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "标小智无界黑",
+        "fontFamily": "BiaoXiaoZhiWuJieHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "源影黑体",
+        "fontFamily": "YuanYingHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "源样黑体",
+        "fontFamily": "YuanYangHei",
+        "type": "黑体",
+        "format": ".ttc"
+    },
+    {
+        "name": "演示斜黑体",
+        "fontFamily": "YanShiXieHei",
+        "type": "黑体",
+        "format": ".otf"
+    },
+    {
+        "name": "爱点风雅黑",
+        "fontFamily": "AiDianFengYaHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "站酷高端黑",
+        "fontFamily": "ZhanKuGaoDuanHei",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "苹方字体",
+        "fontFamily": "PingFang",
+        "type": "黑体",
+        "format": ".otf"
+    },
+    {
+        "name": "荣耀字体",
+        "fontFamily": "RongYao",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "鸿蒙字体",
+        "fontFamily": "HongMeng",
+        "type": "黑体",
+        "format": ".ttf"
+    },
+    {
+        "name": "阿里妈妈东方大楷",
+        "fontFamily": "DongFangDaKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "寒蝉正楷体",
+        "fontFamily": "HanChanZhengKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "教育部标准楷书",
+        "fontFamily": "JiaoYuBuZhunKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "方正楷体",
+        "fontFamily": "FangZhengKaiTi",
+        "type": "楷体",
+        "format": ".TTF"
+    },
+    {
+        "name": "江西拙楷",
+        "fontFamily": "JiangXiZhuoKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "演示悠然小楷",
+        "fontFamily": "YanShiYouRanXiaoKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "玄冬楷书",
+        "fontFamily": "XuanDongKaiShu",
+        "type": "楷体",
+        "format": ".otf"
+    },
+    {
+        "name": "真宗圣典楷书",
+        "fontFamily": "ZhenZongShengDianKai",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "真贵楷体",
+        "fontFamily": "ZhenGuiKaiTi",
+        "type": "楷体",
+        "format": ".ttf"
+    },
+    {
+        "name": "LOGO体",
+        "fontFamily": "LOGOTi",
+        "type": "设计",
+        "format": ".otf"
+    },
+    {
+        "name": "今年也要加油鸭",
+        "fontFamily": "JiaYouYa",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "令东齐伋复刻体",
+        "fontFamily": "LingDongQiJi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "优设鲨鱼菲特",
+        "fontFamily": "YouSheShaYu",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "传奇南安体",
+        "fontFamily": "ChuanQiNanAn",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "俐方体",
+        "fontFamily": "LiFangTi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "创客贴金刚体",
+        "fontFamily": "ChuangKeTie",
+        "type": "设计",
+        "format": ".otf"
+    },
+    {
+        "name": "刺猬体",
+        "fontFamily": "CiWeiTi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "又又意宋",
+        "fontFamily": "YouYouYiSong",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "庞门正道标题体",
+        "fontFamily": "PangMenZhengDao",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "康熙字典",
+        "fontFamily": "KangXiZiDian",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "抖音美好体",
+        "fontFamily": "DouYinMeiHao",
+        "type": "设计",
+        "format": ".otf"
+    },
+    {
+        "name": "文艺体",
+        "fontFamily": "WenYiTi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "斗鱼追光体",
+        "fontFamily": "DouYuZhuiGuang",
+        "type": "设计",
+        "format": ".otf"
+    },
+    {
+        "name": "橄榄简体",
+        "fontFamily": "GanLanJianTi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "江湖古风体",
+        "fontFamily": "JiangHuGuFeng",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "源界明朝",
+        "fontFamily": "YuanJieMingChao",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "真宗圣典明朝体",
+        "fontFamily": "ZhenZongShengDianMing",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "糖果手写体",
+        "fontFamily": "TangGuoShouXie",
+        "type": "设计",
+        "format": ".otf"
+    },
+    {
+        "name": "荆南缘默体",
+        "fontFamily": "JingNanYuanMo",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "装甲明朝体",
+        "fontFamily": "ZhuangJiaMingChao",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "软笔手写体",
+        "fontFamily": "RuanBiShouXie",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "钉钉进步体",
+        "fontFamily": "DingDingJinBu",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "问藏书房",
+        "fontFamily": "WenCangShuFang",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "随心手写体",
+        "fontFamily": "SuiXinShouXie",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "黄油体",
+        "fontFamily": "HuangYouTi",
+        "type": "设计",
+        "format": ".ttf"
+    },
+    {
+        "name": "一汽丰田皇冠体",
+        "fontFamily": "YiQiFengTianHuangGuan",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "云峰飞云体",
+        "fontFamily": "YunFengFeiYun",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "余思源颜黄体",
+        "fontFamily": "YuSiYuanYanHuang",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "墨趣古风体",
+        "fontFamily": "MoQuGuFeng",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "新叶念体",
+        "fontFamily": "XinYeNianTi",
+        "type": "书法",
+        "format": ".otf"
+    },
+    {
+        "name": "王强书法体",
+        "fontFamily": "WangQiangShuFa",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "电影字幕体",
+        "fontFamily": "DianYingZiMu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "英椎行书",
+        "fontFamily": "YingZhuiXingShu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "草书",
+        "fontFamily": "CaoShu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "衡山毛笔草书",
+        "fontFamily": "HengShanCaoShu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "钟齐志莽行书",
+        "fontFamily": "ZhongQiZhiMang",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "青柳隶书",
+        "fontFamily": "QingLiuLiShu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "鸿雷板书",
+        "fontFamily": "HongLeiBanShu",
+        "type": "书法",
+        "format": ".ttf"
+    },
+    {
+        "name": "京華老宋体",
+        "fontFamily": "JingHuaLaoSong",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "南北词宫谱宋体",
+        "fontFamily": "NanBeiCiGongPu",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "周字宋体",
+        "fontFamily": "ZhouZiSongTi",
+        "type": "宋体",
+        "format": ".otf"
+    },
+    {
+        "name": "寒蝉端黑宋",
+        "fontFamily": "HanChanDuanHeiSong",
+        "type": "宋体",
+        "format": ".otf"
+    },
+    {
+        "name": "思源宋体",
+        "fontFamily": "SiYuanSongTi",
+        "type": "宋体",
+        "format": ".otf"
+    },
+    {
+        "name": "朱雀仿宋",
+        "fontFamily": "ZhuQueFangSong",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "汤宪滨宋",
+        "fontFamily": "TangXianBinSong",
+        "type": "宋体",
+        "format": ".otf"
+    },
+    {
+        "name": "猴尊宋体",
+        "fontFamily": "HouZunSongTi",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "芫荽",
+        "fontFamily": "YanSui",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "霞鹜铭心宋",
+        "fontFamily": "XiaWuMingXinSong",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "飞花宋体",
+        "fontFamily": "FeiHuaSongTi",
+        "type": "宋体",
+        "format": ".ttf"
+    },
+    {
+        "name": "香港民间字集",
+        "fontFamily": "XiangGangMinJian",
+        "type": "宋体",
+        "format": ".otf"
+    },
+    {
+        "name": "Avara",
+        "fontFamily": "Avara",
+        "type": "英文",
+        "format": ".otf"
+    },
+    {
+        "name": "Basteleur",
+        "fontFamily": "Basteleur",
+        "type": "英文",
+        "format": ".ttf"
+    },
+    {
+        "name": "BeautiqueDisplay",
+        "fontFamily": "BeautiqueDisplay",
+        "type": "英文",
+        "format": ".otf"
+    },
+    {
+        "name": "LINESeedKR",
+        "fontFamily": "LINESeedKR",
+        "type": "英文",
+        "format": ".ttf"
+    },
+    {
+        "name": "Lambreta",
+        "fontFamily": "Lambreta",
+        "type": "英文",
+        "format": ".ttf"
+    },
+    {
+        "name": "Mono",
+        "fontFamily": "Mono",
+        "type": "英文",
+        "format": ".ttf"
+    },
+    {
+        "name": "Phudu",
+        "fontFamily": "Phudu",
+        "type": "英文",
+        "format": ".ttf"
+    },
+    {
+        "name": "ZeroG",
+        "fontFamily": "ZeroG",
+        "type": "英文",
+        "format": ".otf"
+    },
+    {
+        "name": "公司LOGO圆体",
+        "fontFamily": "GongSiLOGOYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    },
+    {
+        "name": "小杉圆体",
+        "fontFamily": "XiaoShanYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    },
+    {
+        "name": "猫啃忘形圆",
+        "fontFamily": "MaoKenWangXingYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    },
+    {
+        "name": "荆南麦圆体",
+        "fontFamily": "JingNanMaiYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    },
+    {
+        "name": "途牛类圆体",
+        "fontFamily": "TuNiuLeiYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    },
+    {
+        "name": "阿里妈妈方圆体",
+        "fontFamily": "AliMaMaFangYuan",
+        "type": "圆体",
+        "format": ".ttf"
+    }
+]

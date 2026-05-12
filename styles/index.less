@@ -1,0 +1,41 @@
+﻿@import './ThemeVariable.css';
+@import './SystemVariable.css';
+@import './normalize.css';
+@import './animetion.css';
+/* 隐藏页面主滚动条，保留滚动能力 */
+html {
+    scrollbar-width: none;
+
+    /* Firefox */
+    &::-webkit-scrollbar {
+        display: none;
+        /* Chrome Safari Edge */
+    }
+}
+
+body {
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+/* 鼠标悬停指针 */
+.hand {
+    cursor: pointer;
+}
+
+/* 按钮 */
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 32px;
+    padding: 0 12px;
+    font-size: 14px;
+    background-color: var(--primary);
+    color: var(--white);
+    cursor: pointer;
+    border-radius: 6px;
+}

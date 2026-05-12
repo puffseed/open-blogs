@@ -1,0 +1,62 @@
+{
+  "name": "vuejs-with-vite",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=18.17.0"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "prod": "cross-env ENV_MODE=prod PORT=8848 nuxt build && cross-env ENV_MODE=prod PORT=8848 nuxt start",
+    "build": "cross-env ENV_MODE=prod nuxt build",
+    "preview": "nuxt preview",
+    "postinstall": "",
+    "typecheck": "nuxi typecheck"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.18",
+    "@nuxt/ui-templates": "^1.3.1",
+    "@pinia/nuxt": "0.4.11",
+    "@tiptap/pm": "^3.20.0",
+    "@tiptap/starter-kit": "^3.20.0",
+    "@tiptap/vue-3": "^3.20.0",
+    "@unhead/vue": "^1.11.20",
+    "codemirror": "^5.65.21",
+    "docx-preview": "^0.3.7",
+    "highlight.js": "^11.11.1",
+    "leafer-ui": "^2.0.8",
+    "mammoth": "^1.11.0",
+    "nuxt": "3.6.5",
+    "pinia": "2.1.7",
+    "vue": "3.3.4",
+    "vue-router": "4.6.4",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "0.8.5",
+    "@nuxtjs/color-mode": "3.3.0",
+    "cross-env": "^7.0.3",
+    "less": "4.2.0",
+    "typescript": "5.1.6"
+  },
+  "overrides": {
+    "nitropack": "2.6.3",
+    "chokidar": "3.5.3",
+    "@vitejs/plugin-vue": "5.2.4",
+    "cross-env": "^7.0.3",
+    "lru-cache": "^10.4.3",
+    "smob": "1.5.0",
+    "inflight": "^1.0.6",
+    "source-map-url": "^0.4.1",
+    "read-package-json": "^7.0.1",
+    "npmlog": "^5.0.1",
+    "urix": "^0.1.0",
+    "rimraf": "^5.0.7",
+    "resolve-url": "^0.2.1",
+    "are-we-there-yet": "^2.0.0",
+    "glob": "^7.2.3",
+    "source-map-resolve": "^0.6.0",
+    "gauge": "^4.0.4",
+    "webpack-chain": "^6.5.1"
+  }
+}

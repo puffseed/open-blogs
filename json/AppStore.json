@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "name": "工具",
+      "icon": "iconfont icon-bozai",
+      "apps": [
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        },
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        }
+      ]
+    },
+    {
+      "name": "财务",
+      "icon": "iconfont icon-bozai",
+      "apps": [
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        },
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        }
+      ]
+    },
+    {
+      "name": "生活",
+      "icon": "iconfont icon-bozai",
+      "apps": [
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        },
+        {
+          "id": "9527_bozai",
+          "name": "计算器",
+          "cover": "https://img95.699pic.com/xsj/0u/6e/6m.jpg!/fw/700/watermark/url/L3hzai93YXRlcl9kZXRhaWwyLnBuZw/align/southeast",
+          "description": "一个简单的计算器",
+          "path": "/AppStore/Tools/calculator"
+        }
+      ]
+    }
+  ]
+}

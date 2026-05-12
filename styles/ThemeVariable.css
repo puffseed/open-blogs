@@ -1,0 +1,204 @@
+/* !!! 注意：以下为全局主题变量样式，谨慎改动 */
+:root {
+    /* 字体 */
+    /* /1.辅助文字：表单提示文字、标签文字 */
+    --fs-12: 12px;
+    /* /2.正文：段落文本、列表内容 */
+    --fs-14: 14px;
+    /* /3.小标题：卡片标题、表单分组标题 */
+    --fs-16: 16px;
+    /* /4.中标题：页面区域标题、模块标题 */
+    --fs-18: 18px;
+    /* /5.大标题：页面主标题 */
+    --fs-20: 20px;
+    /* /6.特大标题：登录页标题、欢迎页标题 */
+    --fs-24: 24px;
+    /* /7.超大标题：首页Banner标题 */
+    --fs-30: 30px;
+    /* /8.展示标题：数据大屏展示标题 */
+    --fs-46: 46px;
+    /* /9.展示标题：数据大屏主标题 */
+    --fs-56: 56px;
+    /* /10.展示标题：数据大屏超大标题 */
+    --fs-68: 68px;
+  
+    /* 标准色 */
+    /* /1.主题色 */
+    --primary: #1890ff;
+    /* /2.悬停色 */
+    --primary-hover: #40a9ff;
+    /* /3.激活色 */
+    --primary-active: #096dd9;
+    /* /4.背景色 */
+    --primary-bg: #e6f7ff;
+    /* /5.边框色 */
+    --primary-border: #bad0f8;
+  
+    /* 功能色 - 成功色 */
+    /* /1.成功色 */
+    --success: #52c41a;
+    /* /2.悬停色 */
+    --success-hover: #66bb6a;
+    /* /3.激活色 */
+    --success-active: #388e3c;
+    /* /4.背景色 */
+    --success-bg: #e8f5e9;
+    /* /5.边框色 */
+    --success-border: #c8e6c9;
+  
+    /* 功能色 - 警告色 */
+    /* /1.警告色 */
+    --warning: #faad14;
+    /* /2.悬停色 */
+    --warning-hover: #ffa726;
+    /* /3.激活色 */
+    --warning-active: #f57c00;
+    /* /4.背景色 */
+    --warning-bg: #fff3e0;
+    /* /5.边框色 */
+    --warning-border: #ffe0b2;
+  
+    /* 功能色 - 信息色 */
+    /* /1.信息色 */
+    --info: #9c9c9c;
+    /* /2.悬停色 */
+    --info-hover: #e2e2e2;
+    /* /3.激活色 */
+    --info-active: #808080;
+    /* /4.背景色 */
+    --info-bg: #f0f0f0;
+    /* /5.边框色 */
+    --info-border: #e4e4e4;
+  
+    /* 功能色 - 错误色 */
+    /* /1.错误色 */
+    --error: #ff4d4f;
+    /* /2.悬停色 */
+    --error-hover: #ff5f2d;
+    /* /3.激活色 */
+    --error-active: #d32f2f;
+    /* /4.背景色 */
+    --error-bg: #fbe9e7;
+    /* /5.边框色 */
+    --error-border: #ffc9b8;
+  
+    /* 辅助色 */
+    /* /1.悬停色 */
+    --hover: #e9eaec;
+    /* /2.边框色 */
+    --border: #e4e5e7;
+    /* /3.分隔线 */
+    --divider: #f0f0f0;
+    /* /4.背景色 */
+    --background: #f1f2f3;
+    /* /5.白色 */
+    --white: #ffffff;
+    /* /6.黑色 */
+    --black: #000000;
+  
+    /* 文本色 - 浅色背景 */
+    /* /1.标题 */
+    --title: #262626;
+    /* /2.主要文本 */
+    --mainText: #595959;
+    /* /3.次要文本 */
+    --secondaryText: #8c8c8c;
+    /* /4.禁用文本 */
+    --disabledText: #bfbfbf;
+  
+    /* 文本色 - 深色背景 */
+    /* /1.标题 */
+    --title-dark: #d9d9d9;
+    /* /2.主要文本 */
+    --mainText-dark: #a6a6a6;
+    /* /3.次要文本 */
+    --secondaryText-dark: #737373;
+    /* /4.禁用文本 */
+    --disabledText-dark: #4d4d4d;
+  }
+  /* 夜晚模式*/
+[data-theme="dark"] {
+  /* 标准色 */
+  /* /1.主题色 */
+  --primary: #40a9ff;
+  /* /2.悬停色 */
+  --primary-hover: #69c0ff;
+  /* /3.激活色 */
+  --primary-active: #1890ff;
+  /* /4.背景色 */
+  --primary-bg: #1f2937;
+  /* /5.边框色 */
+  --primary-border: #374151;
+
+  /* 功能色 - 成功色 */
+  /* /1.成功色 */
+  --success: #67c23a;
+  /* /2.悬停色 */
+  --success-hover: #85ce61;
+  /* /3.激活色 */
+  --success-active: #52c41a;
+  /* /4.背景色 */
+  --success-bg: #1f2937;
+  /* /5.边框色 */
+  --success-border: #374151;
+
+  /* 功能色 - 警告色 */
+  /* /1.警告色 */
+  --warning: #faad14;
+  /* /2.悬停色 */
+  --warning-hover: #ffc53d;
+  /* /3.激活色 */
+  --warning-active: #d48806;
+  /* /4.背景色 */
+  --warning-bg: #1f2937;
+  /* /5.边框色 */
+  --warning-border: #374151;
+
+  /* 功能色 - 信息色 */
+  /* /1.信息色 */
+  --info: #9c9c9c;
+  /* /2.悬停色 */
+  --info-hover: #b3b3b3;
+  /* /3.激活色 */
+  --info-active: #808080;
+  /* /4.背景色 */
+  --info-bg: #1f2937;
+  /* /5.边框色 */
+  --info-border: #374151;
+
+  /* 功能色 - 错误色 */
+  /* /1.错误色 */
+  --error: #ff7875;
+  /* /2.悬停色 */
+  --error-hover: #ff9e99;
+  /* /3.激活色 */
+  --error-active: #ff4d4f;
+  /* /4.背景色 */
+  --error-bg: #1f2937;
+  /* /5.边框色 */
+  --error-border: #374151;
+
+  /* 辅助色 */
+  /* /1.悬停色 */
+  --hover: #374151;
+  /* /2.边框色 */
+  --border: #374151;
+  /* /3.分隔线 */
+  --divider: #2d3748;
+  /* /4.背景色 */
+  --background: #20232a;
+  /* /5.白色 */
+  --white: #f1f2f3;
+  /* /6.黑色 */
+  --black: #000000;
+
+  /* 文本色 - 深色背景 */
+  /* /1.标题 */
+  --title: #d9d9d9;
+  /* /2.主要文本 */
+  --mainText: #a6a6a6;
+  /* /3.次要文本 */
+  --secondaryText: #737373;
+  /* /4.禁用文本 */
+  --disabledText: #4d4d4d;
+}

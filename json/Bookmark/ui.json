@@ -1,0 +1,132 @@
+[
+  {
+    "name": "扣抠图",
+    "url": "https://www.koukoutu.com/?f=uisdc",
+    "description": "提供海量图片资源,方便设计师使用",
+    "type": "灵感"
+  },
+  {
+    "name": "腾讯CDC",
+    "url": "https://cdc.tencent.com/",
+    "description": "腾讯出品!为企业级产品和数字体验提供设计支持",
+    "type": "灵感"
+  },
+  {
+    "name": "千图网",
+    "url": "https://www.58pic.com/",
+    "description": "海量图片素材,为您的设计提供无限可能",
+    "type": "灵感"
+  },
+  {
+    "name": "包图网",
+    "url": "https://ibaotu.com/",
+    "description": "海量素材,想用就用",
+    "type": "灵感"
+  },
+  {
+    "name": "站酷",
+    "url": "https://www.zcool.com.cn/",
+    "description": "设计师社区,灵感源泉",
+    "type": "灵感"
+  },
+  {
+    "name": "花瓣网",
+    "url": "https://huaban.com/discovery",
+    "description": "图片素材中心,设计灵感源头",
+    "type": "灵感"
+  },
+  {
+    "name": "办公资源",
+    "url": "https://www.bangongziyuan.com/",
+    "description": "办公资源,为您的工作提供支持",
+    "type": "灵感"
+  },
+
+  {
+    "name": "阿里图标库",
+    "url": "https://www.iconfont.cn/",
+    "description": "提供海量图标资源,方便设计师使用",
+    "type": "图标"
+  },
+  {
+    "name": "Font Awesome",
+    "url": "https://fa.fangguokeji.cn/",
+    "description": "一套绝佳的图标字体库",
+    "type": "图标"
+  },
+  {
+    "name": "表情大全",
+    "url": "https://www.emojiall.com/zh-hans",
+    "description": "提供海量表情资源,方便设计师使用",
+    "type": "图标"
+  },
+  {
+    "name": "矢量图",
+    "url": "https://loading.io/",
+    "description": "海量矢量图资源",
+    "type": "图标"
+  },
+  {
+    "name": "矢量LOGO下载",
+    "url": "https://worldvectorlogo.com/",
+    "description": "海量矢量LOGO资源",
+    "type": "图标"
+  },
+  {
+    "name": "莫高设计",
+    "url": "https://mastergo.com/",
+    "description": "专业的设计服务,为您的品牌和产品提供专业的设计解决方案",
+    "type": "云设计"
+  },
+  {
+    "name": "稿定设计",
+    "url": "https://www.gaoding.com/",
+    "description": "轻松搞定,设计不再难",
+    "type": "云设计"
+  },
+  {
+    "name": "墨刀原型",
+    "url": "https://www.modao.cc/",
+    "description": "在线原型设计工具,帮助您快速创建交互式原型",
+    "type": "云设计"
+  },
+  {
+    "name": "蓝湖",
+    "url": "https://lanhuapp.com/",
+    "description": "UI协作平台,提升交付效率",
+    "type": "云设计"
+  },
+  {
+    "name": "以方iFonts",
+    "url": "https://ifonts.com/",
+    "description": "提供海量字体资源,方便设计师使用",
+    "type": "字体"
+  },
+
+  {
+    "name": "字体天下",
+    "url": "https://www.fonts.net.cn/",
+    "description": "海量字体，免费获取",
+    "type": "字体"
+  },
+  {
+    "name": "字魂",
+    "url": "https://izihun.com/",
+    "description": "字体有灵魂，创意更出众",
+    "type": "字体"
+  },
+
+  {
+    "name": "喵闪字库",
+    "url": "https://www.miao3.cn/",
+    "description": "提供海量字体资源,方便设计师使用",
+    "type": "字体"
+  },
+
+  {
+    "name": "中国色",
+    "url": "https://zhongguose.com/",
+    "description": "古典美学,色彩里的中国",
+    "type": "颜色"
+  }
+]

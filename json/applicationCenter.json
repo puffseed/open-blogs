@@ -1,0 +1,26 @@
+[
+  {
+    "cover": "https://img2.baidu.com/it/u=1350961713,832571616&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+    "appName": "自动配色",
+    "description": "UI设计师调色盘工具",
+    "path": "/about",
+    "password": "",
+    "type": "设计师"
+  },
+  {
+    "cover": "https://img2.baidu.com/it/u=1350961713,832571616&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+    "appName": "代码格式化",
+    "description": "工程师代码格式化工具",
+    "path": "/about",
+    "password": "",
+    "type": "工程师"
+  },
+  {
+    "cover": "https://img2.baidu.com/it/u=1350961713,832571616&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
+    "appName": "文档数据对比",
+    "description": "文档数据对比工具,支持多种文档格式",
+    "path": "/documentDataComparison",
+    "password": "",
+    "type": "其他"
+  }
+]

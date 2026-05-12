@@ -1,0 +1,101 @@
+{
+  "modules": [
+    {
+      "title": "掌握技能",
+      "anchorId": "anchor-0",
+      "type": "masterSkills",
+      "data": {
+        "treeTitle": "能力树",
+        "left": {
+          "mainLabel": "核心素质",
+          "nodes": [
+            {
+              "label": "先天决定",
+              "items": ["外貌", "智力", "性格特征"]
+            },
+            {
+              "label": "后天形成",
+              "items": ["意愿与动机", "积极态度", "优秀习惯"]
+            },
+            {
+              "branchLabel": "可迁移能力",
+              "nodes": [
+                {
+                  "label": "个体能力",
+                  "items": ["思维能力", "学习能力", "表达能力", "观察能力"]
+                },
+                {
+                  "label": "团队能力",
+                  "items": ["人际沟通能力", "团队领导力"]
+                }
+              ]
+            }
+          ]
+        },
+        "right": {
+          "mainLabel": "必备知识",
+          "nodes": [
+            {
+              "branchLabel": "专业技能",
+              "nodes": [
+                {
+                  "label": "一般技能",
+                  "items": ["MasterGo", "墨刀", "稿定设计", "Ps", "Ai"]
+                },
+                {
+                  "label": "特殊技能",
+                  "items": ["需求分析", "模块思维"]
+                }
+              ]
+            },
+            {
+              "label": "行业知识",
+              "items": ["人工智能", "AI编程", "智能体"]
+            },
+            {
+              "label": "领域知识",
+              "items": ["前沿设计", "最新技术"]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "应用场景",
+      "anchorId": "anchor-1",
+      "type": "applicationScenario",
+      "data": [
+        {
+          "title": "自然语言大模型",
+          "icon": "@/assets/images/home/Scenario-1.png",
+          "description": "自然语言大模型是一种基于自然语言处理技术的模型，可以理解自然语言文本的含义，并生成自然语言文本。"
+        },
+        {
+          "title": "计算机视觉大模型",
+          "icon": "@/assets/images/home/Scenario-2.png",
+          "description": "计算机视觉大模型是一种基于计算机视觉技术的模型，可以理解计算机视觉文本的含义，并生成计算机视觉文本。"
+        },
+        {
+          "title": "语音大模型",
+          "icon": "@/assets/images/home/Scenario-3.png",
+          "description": "语音大模型是一种基于语音处理技术的模型，可以理解语音文本的含义，并生成语音文本。"
+        },
+        {
+          "title": "多模态大模型",
+          "icon": "@/assets/images/home/Scenario-4.png",
+          "description": "多模态大模型是一种基于多模态技术的模型，可以理解多模态文本的含义，并生成多模态文本。"
+        },
+        {
+          "title": "AI写作平台",
+          "icon": "@/assets/images/home/Scenario-5.png",
+          "description": "AI写作平台是一种基于AI技术的平台，可以理解自然语言文本的含义，并生成自然语言文本。"
+        },
+        {
+          "title": "更多铁路AI应用...",
+          "icon": "@/assets/images/home/Scenario-6.png",
+          "description": "用于更多AI相关项目"
+        }
+      ]
+    }
+  ]
+}

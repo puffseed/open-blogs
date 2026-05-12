@@ -1,0 +1,203 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4781082 */
+  src: url('iconfont.woff2?t=1775451953265') format('woff2'),
+       url('iconfont.woff?t=1775451953265') format('woff'),
+       url('iconfont.ttf?t=1775451953265') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Set:before {
+  content: "\e691";
+}
+
+.icon-Auto:before {
+  content: "\e68e";
+}
+
+.icon-Daytime:before {
+  content: "\e68f";
+}
+
+.icon-Nighttime:before {
+  content: "\e690";
+}
+
+.icon-AIPolishing:before {
+  content: "\e678";
+}
+
+.icon-closingQuotationMark:before {
+  content: "\e679";
+}
+
+.icon-copyright:before {
+  content: "\e67a";
+}
+
+.icon-Dialogue:before {
+  content: "\e67b";
+}
+
+.icon-DocumentProofreading:before {
+  content: "\e612";
+}
+
+.icon-Lock:before {
+  content: "\e67c";
+}
+
+.icon-Menu:before {
+  content: "\e611";
+}
+
+.icon-DocumentWriting:before {
+  content: "\e67d";
+}
+
+.icon-CardView:before {
+  content: "\e67e";
+}
+
+.icon-BackTop:before {
+  content: "\e610";
+}
+
+.icon-bozai:before {
+  content: "\e600";
+}
+
+.icon-Back:before {
+  content: "\e601";
+}
+
+.icon-csdn:before {
+  content: "\e602";
+}
+
+.icon-Copys:before {
+  content: "\e603";
+}
+
+.icon-Occupation:before {
+  content: "\e604";
+}
+
+.icon-City:before {
+  content: "\e605";
+}
+
+.icon-yuque:before {
+  content: "\e606";
+}
+
+.icon-Download:before {
+  content: "\e607";
+}
+
+.icon-Prompt:before {
+  content: "\e608";
+}
+
+.icon-Tool:before {
+  content: "\e609";
+}
+
+.icon-weixin:before {
+  content: "\e60a";
+}
+
+.icon-Close:before {
+  content: "\e60b";
+}
+
+.icon-Male:before {
+  content: "\e60c";
+}
+
+.icon-xiaohongshu:before {
+  content: "\e60d";
+}
+
+.icon-TimeHourglass:before {
+  content: "\e60e";
+}
+
+.icon-WorkStatus:before {
+  content: "\e60f";
+}
+
+.icon-github:before {
+  content: "\e688";
+}
+
+.icon-hex:before {
+  content: "\e67f";
+}
+
+.icon-rgb:before {
+  content: "\e680";
+}
+
+.icon-HistoricalConversation:before {
+  content: "\e681";
+}
+
+.icon-ListView:before {
+  content: "\e682";
+}
+
+.icon-ModeSwitch:before {
+  content: "\e683";
+}
+
+.icon-more:before {
+  content: "\e684";
+}
+
+.icon-SourceKnowledge:before {
+  content: "\e685";
+}
+
+.icon-ViewDetails:before {
+  content: "\e686";
+}
+
+.icon-Upload:before {
+  content: "\e687";
+}
+
+.icon-Editor:before {
+  content: "\e68c";
+}
+
+.icon-OpeningQuotationMark:before {
+  content: "\e62f";
+}
+
+.icon-ReplaceDocument:before {
+  content: "\e677";
+}
+
+.icon-DraftBox:before {
+  content: "\e68d";
+}
+
+.icon-send:before {
+  content: "\e689";
+}
+
+.icon-show:before {
+  content: "\e68a";
+}
+
+.icon-hide:before {
+  content: "\e68b";
+}
+

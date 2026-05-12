@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Nuxt.js",
+    "url": "https://nuxt.zhcndoc.com/",
+    "description": "Nuxt.js 中文文档",
+    "type": "框架"
+  },
+  {
+    "name": "Vue.js",
+    "url": "https://cn.vuejs.org/",
+    "description": "渐进式JavaScript 框架易学易用，性能出色，适用场景丰富的 Web 前端框架。",
+    "type": "框架"
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/",
+    "description": "全球最大的开源社区",
+    "type": "代码仓库"
+  },
+  {
+    "name": "Gitee",
+    "url": "https://gitee.com/",
+    "description": "国内最大的代码托管平台",
+    "type": "代码仓库"
+  },
+  {
+    "name": "GitCode",
+    "url": "https://gitcode.com/",
+    "description": "国内最大的代码托管平台",
+    "type": "代码仓库"
+  },
+  {
+    "name": "微信开发文档",
+    "url": "https://developers.weixin.qq.com/doc/",
+    "description": "微信开发文档,帮助您快速开发微信小程序",
+    "type": "组件库"
+  },
+  {
+    "name": "Ant Design",
+    "url": "https://ant.design/index-cn",
+    "description": "助力设计开发者「更灵活」地搭建出「更美」的产品，让用户「快乐工作」～",
+    "type": "组件库"
+  },
+  {
+    "name": "TDesign",
+    "url": "https://tdesign.tencent.com/",
+    "description": "为设计师 & 开发者，打造工作美学",
+    "type": "组件库"
+  },
+  {
+    "name": "Arco.Design",
+    "url": "https://arco.design/",
+    "description": "智能设计体系，连接轻盈体验#字节跳动出品的企业级设计系统",
+    "type": "组件库"
+  },
+  {
+    "name": "KDesign",
+    "url": "https://www.kingdee.design/",
+    "description": "金蝶出品!灵活丰富的典型页面规则",
+    "type": "组件库"
+  },
+  {
+    "name": "Ke.Design",
+    "url": "https://design.ke.com/page/home",
+    "description": "贝壳出品!构建协作生态一体化",
+    "type": "组件库"
+  },
+  {
+    "name": "Kingcloud",
+    "url": "https://design.ksyun.com/",
+    "description": "金山出品!用于企业级产品和数字体验的开源设计系统",
+    "type": "组件库"
+  },
+  {
+    "name": "element",
+    "url": "https://element.eleme.cn/#/zh-CN",
+    "description": "一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+    "type": "组件库"
+  },
+  {
+    "name": "Element Plus",
+    "url": "https://element-plus.org/zh-CN/#/zh-CN",
+    "description": "一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库",
+    "type": "组件库"
+  },
+  {
+    "name": "DataV",
+    "url": "http://datav.jiaminghi.com/",
+    "description": "数据可视化工具,基于Vue3.0",
+    "type": "组件库"
+  },
+  {
+    "name": "Vant",
+    "url": "https://vant-ui.github.io/vant/v2/#/zh-CN/home",
+    "description": "一套为移动端开发者准备的基于 Vue 3.0 的移动端组件库",
+    "type": "组件库"
+  },
+  {
+    "name": "Apache ECharts",
+    "url": "https://echarts.apache.org/zh/index.html",
+    "description": "一个基于JavaScript的开源可视化库,提供了丰富的图表类型和交互功能。",
+    "type": "组件库"
+  },
+  {
+    "name": "D3.js",
+    "url": "https://d3js.org/",
+    "description": "一个基于数据驱动的可视化库,提供了丰富的图表类型和交互功能。",
+    "type": "组件库"
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://www.bootcss.com/",
+    "description": "Bootstrap 中文文档",
+    "type": "组件库"
+  },
+  {
+    "name": "DevUI Design",
+    "url": "https://devui.design/home",
+    "description": "DevUI Design 是一个基于 Vue 3.0 的桌面端组件库",
+    "type": "组件库"
+  },
+  {
+    "name": "DCloud",
+    "url": "https://www.dcloud.io/",
+    "description": "DCloud 是一个基于 Vue 3.0 的移动端组件库",
+    "type": "组件库"
+  },
+  {
+    "name": "UIverse",
+    "url": "https://uiverse.io/",
+    "description": "最大的开源用户界面库",
+    "type": "组件库"
+  },
+  {
+    "name": "wangEditor5",
+    "url": "https://www.wangeditor.com/",
+    "description": "基于 Vue 3.0 的富文本编辑器",
+    "type": "插件库"
+  },
+  {
+    "name": "Leafer.js",
+    "url": "https://www.leaferjs.com/",
+    "description": "基好用的 Canvas 引擎",
+    "type": "动画库"
+  },
+  {
+    "name": "代码小抄",
+    "url": "https://www.codecopy.cn/",
+    "description": "代码复制工具,支持多种语言",
+    "type": "其他"
+  },
+  {
+    "name": "菜鸟教程",
+    "url": "https://www.runoob.com/",
+    "description": "学的不仅是技术，更是梦想",
+    "type": "其他"
+  }
+]
